@@ -1,5 +1,6 @@
 # [qvol.ru]
 0.0.0.0 ad.qvol.ru
+0.0.0.0 a.qvol.ru
 
 # [serving-sys.ru]
 0.0.0.0 bs.serving-sys.ru
@@ -43,7 +44,7 @@
 # [adlook.me]
 0.0.0.0 ads.adlook.me
 
-# [cdn.trafficbass.com]
+# [trafficbass.com]
 0.0.0.0 cdn.trafficbass.com
 
 # [otm-r.com]
@@ -80,8 +81,11 @@
 0.0.0.0 mob.playjusting.com
 0.0.0.0 pc.playjusting.com
 
-# [trafficbass.com]
-0.0.0.0 cdn.trafficbass.com
-
 # [vak345.com]
 0.0.0.0 vak345.com
+
+# [bjbpqi.com]
+0.0.0.0 bjbpqi.com
+
+# [sparrow.ru]
+0.0.0.0 widget.sparrow.ru
